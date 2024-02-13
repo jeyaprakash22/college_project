@@ -1,5 +1,5 @@
-# college_project
-#PG Projects
+# SEGMENTATION AND CLASSIFICATION OF STOCKS IN BOMBAY STOCKS EXCHANGE (BSE) BASED ON FUNDAMENTAL RATIO
+#PG - FINAL YEAR PROJECT
 
 #============== importing data ===============#
 
